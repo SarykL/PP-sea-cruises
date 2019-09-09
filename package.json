@@ -1,0 +1,19 @@
+{
+  "name": "pp-sea-cruises",
+  "version": "1.0.0",
+  "description": "Portfolio project 'Sea Cruises'",
+  "main": "gulpfile.js",
+  "directories": {},
+  "dependencies": {
+    "@babel/core": "^7.6.0",
+    "@babel/preset-env": "^7.6.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SarykL",
+  "license": "ISC"
+}
